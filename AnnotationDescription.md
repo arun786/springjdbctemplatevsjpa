@@ -1,4 +1,4 @@
-# Types of Annotation used in Project
+# Types of Annotation used in Spring Project
 
 ## @Configuration
     
